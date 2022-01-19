@@ -1,0 +1,8 @@
+{
+    "app_id": "mynotes_realm-fzhna",
+    "config_version": 20210101,
+    "name": "MyNotes_Realm",
+    "location": "DE-FF",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
